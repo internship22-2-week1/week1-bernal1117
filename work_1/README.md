@@ -1,10 +1,31 @@
-# DIA 1 - 20/06/2022
+#   DIA 1 - 20/06/2022
 
-## Preparacion del entorno
-- Claves privadas y publicas con ssh
-- Creacion de repositorio para apps con git
-- Despliegue de la app en versel en conjunto con git 
-- Documentacion con Mark down (md)
-- Preparacion de pluggins y componentes a usar
+## PREWORKOUT
+-   Configuracion del entorno de trabajo
+-   Claves privadas y publicas ssh
+-   Creacion de nuestro repositorio para aplicacion con git
+-   Despliegue de app en versel en conjunto con versel
+    ![img](/assets/uno.PNG)
+    ![img](/assets/dos.PNG)
+    
+## ACTIVIDAD - SCRIPT
+echo 'Ingrese nombre del directorio'
+read A
+mkdir -p $A/assets/css
+cd $A/assets
+mkdir img
+mkdir js
+cd css
+touch style.css
+cd ..
+cd ..
+cd ..
+cat prb.css > style.css
+cd $A
+touch index.html
+cd ..
+cat texto.html > index.html
+cat index.html 
+tree $A
 
-![](C:\Users\danie\Desktop\Pasantia)
+ ![img](/assets/actividad-script.PNG)
