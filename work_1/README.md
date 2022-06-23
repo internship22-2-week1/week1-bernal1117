@@ -28,4 +28,4 @@ cat texto.html > index.html
 cat index.html 
 tree $A
 
- ![img](/assets/actividad-script.PNG)
+ ![img](/assets/script.PNG)
