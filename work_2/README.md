@@ -20,7 +20,7 @@ Vimos muchisimos temas relacionados al tema asi como
 -   Funciones
 -   Modularizacion de codigo 
 
-## ACTIVIDAD 
+## ACTIVIDAD LOGICA
 RESPUESTAS:
 1. ¿Qué haría usted para que cuando un cliente compre algún producto se utilicen la menor cantidad de botellas, y se desperdicie la menor cantidad de espacio en las mismas.?
    - Lo que yo haria para evitar desperdicios de botellas es realizar un algoritmo el cual determine que botellas son las adecuadas a elegir segun la cantidad exigida       por el cliente segun el stock registrado con la cantidad de botellas y su medida.
