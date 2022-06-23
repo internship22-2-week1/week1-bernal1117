@@ -1,0 +1,8 @@
+body{
+        background-color: #2b388f;
+        display: grid;
+        place-items: center;
+    }
+    h2{
+        color: #fff
+    }

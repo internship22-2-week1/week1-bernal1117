@@ -1,4 +1,4 @@
-# DIA 1 - 21/06/2022
+# DIA 1 - 20/06/2022
 
 ## Preparacion del entorno
 - Claves privadas y publicas con ssh
